@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    font-family:Arial;
+    border:border-box;
+
+}
+.navbar{
+    display: inline-block;
+    height:50px;
+    width: 100;
+    background-color: #0f1111;
+
+
+
+}
+.nav-logo{
+     height: 50px;
+    width: 113px;
+}
+.logo{
+   height: 50px;
+   width: 100%;
+
+    background-image: url("amazon-logo_story.jpg");
+background-size: cover;
+
+}
+.border{
+    border:1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+
